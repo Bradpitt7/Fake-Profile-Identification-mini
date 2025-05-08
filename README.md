@@ -1,7 +1,7 @@
 Social networks are increasingly plagued by fake accounts that spread misinformation, conduct scams, or manipulate public opinion.
 This project leverages machine learning and natural language processing (NLP) 
 to detect and classify such profiles based on various textual and metadata features
-for files check drive:https://drive.google.com/file/d/1BsjtluJ5pl9TO_csudoILjWQMlh3cuQV/view
+for execution check drive:https://drive.google.com/file/d/1Bwg4-4_eX_Oae_qBfDOAEUAY_AXDVxfv/view
 after installing the zipped file extract the files using winRaR. 
 For further process check the video from the drive. 
 For this project,the requirements are: 1.Xampp server
